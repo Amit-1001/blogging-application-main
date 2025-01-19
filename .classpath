@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ApiGateway/src/main/java"/>
+	<classpathentry kind="src" path="ApiGateway/src/test/java"/>
+	<classpathentry kind="src" path="ConfigServer/src/main/java"/>
+	<classpathentry kind="src" path="ConfigServer/src/test/java"/>
+	<classpathentry kind="src" path="ServiceRegistry/src/main/java"/>
+	<classpathentry kind="src" path="ServiceRegistry/src/test/java"/>
+	<classpathentry kind="src" path="theatreService/src/main/java"/>
+	<classpathentry kind="src" path="theatreService/src/test/java"/>
+	<classpathentry kind="src" path="TicketService/src/main/java"/>
+	<classpathentry kind="src" path="TicketService/src/test/java"/>
+	<classpathentry kind="src" path="UserService/src/main/java"/>
+	<classpathentry kind="src" path="UserService/src/test/java"/>
+	<classpathentry kind="lib" path="ApiGateway/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="ConfigServer/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="ServiceRegistry/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="theatreService/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="TicketService/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="UserService/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
